@@ -112,7 +112,7 @@ div.body .container .pro-container .info div span {
     color: hsl(333, 80%, 67%) ;
 }
 div.body .container .pro-container p {
-    font-size: 1.095rem;
+    font-size: 1rem;
     line-height: 1.35;
 }
 @media screen and (max-width: 1205px) {
